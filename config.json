@@ -1,0 +1,15 @@
+{
+    "dir_json": "/home/taiel/Desktop/backup/files.json",
+    "url_auth":"https://drive.tecnica3.com.ar/api/user/login",
+    "username":"",
+    "password":"",
+    "url_upload":"https://drive.tecnica3.com.ar/api/file/upload",
+    "single_file":true,
+    "start_file":"backup_",
+
+    "db_backup":true,
+    "db_url":"localhost",
+    "db_port":3306,
+    "db_user":"",
+    "db_pass":""
+}
